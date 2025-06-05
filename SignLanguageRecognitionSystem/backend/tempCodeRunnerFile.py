@@ -1,0 +1,1 @@
+model = load_model('model/modellstm.h5')
